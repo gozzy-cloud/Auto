@@ -1,0 +1,9 @@
+{
+  "appId": "com.adhilabs.autoridelocal",
+  "appName": "AutoRide Local",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
